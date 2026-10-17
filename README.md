@@ -191,6 +191,6 @@ ArchaEC-SVM/
 
 ## 9. Attribution and licensing
 
-UniProt-derived database content is attributed to the UniProt Consortium under [CC BY 4.0](https://www.uniprot.org/help/license); see [DATA_SOURCES.md](DATA_SOURCES.md). A separate open-source license for the original project code has not yet been selected by the owner. Public availability alone does not grant an MIT or Apache license. See [LICENSE_NOTICE.md](LICENSE_NOTICE.md).
+Original project code and associated software documentation are available under the [MIT License](LICENSE). UniProt-derived database content remains attributed to the UniProt Consortium under [CC BY 4.0](https://www.uniprot.org/help/license); see [DATA_SOURCES.md](DATA_SOURCES.md). The code license does not replace third-party terms or separately license research figures. See [LICENSE_NOTICE.md](LICENSE_NOTICE.md) for the scope.
 
 No manuscript DOI is available in this release. Do not cite a fabricated publication. Until publication metadata is supplied, cite this repository with the exact commit identifier and acknowledge UniProt as the data source.
