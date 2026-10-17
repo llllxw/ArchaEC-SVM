@@ -1,0 +1,7 @@
+﻿annotation,status,macro_roc_auc
+Active-site annotation,Present,NA (4/5 estimable folds)
+Active-site annotation,Absent,0.955 ± 0.003
+Binding-site annotation,Present,0.957 ± 0.005
+Binding-site annotation,Absent,0.952 ± 0.002
+Transmembrane annotation,Present,NA (0/5 estimable folds)
+Transmembrane annotation,Absent,0.957 ± 0.004

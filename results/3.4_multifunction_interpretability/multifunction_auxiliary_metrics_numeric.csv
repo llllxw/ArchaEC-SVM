@@ -1,0 +1,2 @@
+model,roc_auc_mean,roc_auc_sd,roc_auc_n_folds,ap_mean,ap_sd,ap_n_folds,validation_threshold_mean,validation_threshold_sd,validation_threshold_n_folds
+multifunction RBF-SVM,0.9452158285883389,0.024913704463099862,5,0.7924506619374971,0.034174702567425226,5,0.394,0.01140175425099139,5

@@ -1,0 +1,4 @@
+﻿strategy,macro_f1,micro_f1,sample_f1,exact_match,hamming_loss
+Fixed 0.50,0.819 ± 0.014,0.818 ± 0.009,0.820 ± 0.009,0.801 ± 0.011,0.053 ± 0.003
+Validation class-specific,0.817 ± 0.008,0.815 ± 0.006,0.821 ± 0.006,0.778 ± 0.006,0.056 ± 0.002
+Auxiliary-guided adaptive,0.819 ± 0.015,0.819 ± 0.010,0.820 ± 0.010,0.811 ± 0.010,0.053 ± 0.003

@@ -1,0 +1,11 @@
+{
+  "figure": 2,
+  "status": "published after numerical validation and visual QA",
+  "source_run": "results\\five_fold_cv_20261007",
+  "outer_folds": 5,
+  "sd_ddof": 1,
+  "display_decimals": 3,
+  "descriptive_only": true,
+  "source_panels_unchanged": true,
+  "error_bars": "not applicable to whole-dataset counts"
+}

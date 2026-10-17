@@ -1,0 +1,85 @@
+feature,ec_class,class_name,class_median,class_q1,class_q3,robust_standardized_median,global_kruskal_h,epsilon_squared,species_blocked_permutation_p,bh_q
+Log length,1,Oxidoreductases,5.841,5.638,6.017,0.157,2232.640,0.200,0.001,0.001
+Log length,2,Transferases,5.628,5.283,5.924,-0.286,2232.640,0.200,0.001,0.001
+Log length,3,Hydrolases,5.521,5.220,5.861,-0.506,2232.640,0.200,0.001,0.001
+Log length,4,Lyases,5.710,5.316,6.031,-0.114,2232.640,0.200,0.001,0.001
+Log length,5,Isomerases,5.966,5.529,6.116,0.417,2232.640,0.200,0.001,0.001
+Log length,6,Ligases,6.163,5.927,6.360,0.827,2232.640,0.200,0.001,0.001
+Log length,7,Translocases,5.704,5.529,6.372,-0.128,2232.640,0.200,0.001,0.001
+Sequence entropy,1,Oxidoreductases,4.037,3.981,4.091,0.234,857.406,0.077,0.001,0.001
+Sequence entropy,2,Transferases,3.999,3.930,4.055,-0.200,857.406,0.077,0.001,0.001
+Sequence entropy,3,Hydrolases,3.999,3.936,4.052,-0.200,857.406,0.077,0.001,0.001
+Sequence entropy,4,Lyases,4.018,3.960,4.062,0.018,857.406,0.077,0.001,0.001
+Sequence entropy,5,Isomerases,4.022,3.943,4.065,0.070,857.406,0.077,0.001,0.001
+Sequence entropy,6,Ligases,4.064,4.010,4.102,0.540,857.406,0.077,0.001,0.001
+Sequence entropy,7,Translocases,4.010,3.930,4.073,-0.067,857.406,0.077,0.001,0.001
+Longest hydrophobic run,1,Oxidoreductases,0.017,0.013,0.020,-0.062,1994.471,0.179,0.001,0.001
+Longest hydrophobic run,2,Transferases,0.020,0.015,0.028,0.280,1994.471,0.179,0.001,0.001
+Longest hydrophobic run,3,Hydrolases,0.021,0.015,0.029,0.410,1994.471,0.179,0.001,0.001
+Longest hydrophobic run,4,Lyases,0.018,0.013,0.025,0.085,1994.471,0.179,0.001,0.001
+Longest hydrophobic run,5,Isomerases,0.014,0.011,0.019,-0.319,1994.471,0.179,0.001,0.001
+Longest hydrophobic run,6,Ligases,0.011,0.009,0.015,-0.638,1994.471,0.179,0.001,0.001
+Longest hydrophobic run,7,Translocases,0.017,0.010,0.028,-0.055,1994.471,0.179,0.001,0.001
+Hydrophobic fraction,1,Oxidoreductases,0.430,0.412,0.448,0.150,428.468,0.038,0.001,0.001
+Hydrophobic fraction,2,Transferases,0.431,0.413,0.450,0.160,428.468,0.038,0.001,0.001
+Hydrophobic fraction,3,Hydrolases,0.422,0.402,0.444,-0.167,428.468,0.038,0.001,0.001
+Hydrophobic fraction,4,Lyases,0.431,0.411,0.450,0.179,428.468,0.038,0.001,0.001
+Hydrophobic fraction,5,Isomerases,0.425,0.408,0.441,-0.036,428.468,0.038,0.001,0.001
+Hydrophobic fraction,6,Ligases,0.418,0.402,0.432,-0.283,428.468,0.038,0.001,0.001
+Hydrophobic fraction,7,Translocases,0.430,0.409,0.484,0.127,428.468,0.038,0.001,0.001
+Charged fraction,1,Oxidoreductases,0.254,0.235,0.272,-0.392,751.222,0.067,0.001,0.001
+Charged fraction,2,Transferases,0.268,0.242,0.294,-0.030,751.222,0.067,0.001,0.001
+Charged fraction,3,Hydrolases,0.273,0.246,0.304,0.109,751.222,0.067,0.001,0.001
+Charged fraction,4,Lyases,0.261,0.240,0.281,-0.208,751.222,0.067,0.001,0.001
+Charged fraction,5,Isomerases,0.273,0.247,0.297,0.107,751.222,0.067,0.001,0.001
+Charged fraction,6,Ligases,0.287,0.265,0.306,0.472,751.222,0.067,0.001,0.001
+Charged fraction,7,Translocases,0.253,0.210,0.274,-0.430,751.222,0.067,0.001,0.001
+Polar fraction,1,Oxidoreductases,0.155,0.137,0.176,0.032,85.514,0.007,0.001,0.001
+Polar fraction,2,Transferases,0.153,0.132,0.174,-0.034,85.514,0.007,0.001,0.001
+Polar fraction,3,Hydrolases,0.159,0.134,0.182,0.163,85.514,0.007,0.001,0.001
+Polar fraction,4,Lyases,0.152,0.130,0.172,-0.040,85.514,0.007,0.001,0.001
+Polar fraction,5,Isomerases,0.153,0.133,0.175,-0.015,85.514,0.007,0.001,0.001
+Polar fraction,6,Ligases,0.151,0.129,0.171,-0.080,85.514,0.007,0.001,0.001
+Polar fraction,7,Translocases,0.162,0.142,0.181,0.268,85.514,0.007,0.001,0.001
+Aromatic fraction,1,Oxidoreductases,0.072,0.057,0.087,-0.113,379.335,0.034,0.001,0.001
+Aromatic fraction,2,Transferases,0.074,0.058,0.092,-0.052,379.335,0.034,0.001,0.001
+Aromatic fraction,3,Hydrolases,0.073,0.059,0.092,-0.080,379.335,0.034,0.001,0.001
+Aromatic fraction,4,Lyases,0.072,0.058,0.087,-0.114,379.335,0.034,0.001,0.001
+Aromatic fraction,5,Isomerases,0.073,0.053,0.089,-0.101,379.335,0.034,0.001,0.001
+Aromatic fraction,6,Ligases,0.085,0.071,0.099,0.416,379.335,0.034,0.001,0.001
+Aromatic fraction,7,Translocases,0.072,0.059,0.081,-0.105,379.335,0.034,0.001,0.001
+Small-residue fraction,1,Oxidoreductases,0.271,0.245,0.296,0.344,579.395,0.052,0.001,0.001
+Small-residue fraction,2,Transferases,0.252,0.219,0.289,-0.052,579.395,0.052,0.001,0.001
+Small-residue fraction,3,Hydrolases,0.246,0.214,0.285,-0.161,579.395,0.052,0.001,0.001
+Small-residue fraction,4,Lyases,0.274,0.242,0.301,0.395,579.395,0.052,0.001,0.001
+Small-residue fraction,5,Isomerases,0.261,0.228,0.296,0.146,579.395,0.052,0.001,0.001
+Small-residue fraction,6,Ligases,0.237,0.210,0.265,-0.336,579.395,0.052,0.001,0.001
+Small-residue fraction,7,Translocases,0.270,0.242,0.307,0.313,579.395,0.052,0.001,0.001
+Glycine fraction,1,Oxidoreductases,0.083,0.071,0.095,0.328,420.109,0.037,0.001,0.001
+Glycine fraction,2,Transferases,0.075,0.062,0.088,-0.106,420.109,0.037,0.001,0.001
+Glycine fraction,3,Hydrolases,0.076,0.060,0.089,-0.026,420.109,0.037,0.001,0.001
+Glycine fraction,4,Lyases,0.083,0.067,0.095,0.292,420.109,0.037,0.001,0.001
+Glycine fraction,5,Isomerases,0.081,0.067,0.094,0.196,420.109,0.037,0.001,0.001
+Glycine fraction,6,Ligases,0.071,0.060,0.084,-0.297,420.109,0.037,0.001,0.001
+Glycine fraction,7,Translocases,0.086,0.076,0.100,0.461,420.109,0.037,0.001,0.001
+Proline fraction,1,Oxidoreductases,0.043,0.035,0.052,0.079,211.879,0.019,0.001,0.001
+Proline fraction,2,Transferases,0.041,0.032,0.050,-0.065,211.879,0.019,0.001,0.001
+Proline fraction,3,Hydrolases,0.039,0.029,0.051,-0.226,211.879,0.019,0.001,0.001
+Proline fraction,4,Lyases,0.042,0.033,0.053,0.028,211.879,0.019,0.001,0.001
+Proline fraction,5,Isomerases,0.042,0.033,0.051,0.003,211.879,0.019,0.001,0.001
+Proline fraction,6,Ligases,0.044,0.038,0.051,0.190,211.879,0.019,0.001,0.001
+Proline fraction,7,Translocases,0.046,0.038,0.055,0.341,211.879,0.019,0.001,0.001
+Cysteine fraction,1,Oxidoreductases,0.009,0.003,0.017,0.189,118.617,0.010,0.001,0.001
+Cysteine fraction,2,Transferases,0.007,0.003,0.013,-0.074,118.617,0.010,0.001,0.001
+Cysteine fraction,3,Hydrolases,0.006,0.002,0.013,-0.151,118.617,0.010,0.001,0.001
+Cysteine fraction,4,Lyases,0.008,0.003,0.015,0.087,118.617,0.010,0.001,0.001
+Cysteine fraction,5,Isomerases,0.007,0.003,0.013,-0.043,118.617,0.010,0.001,0.001
+Cysteine fraction,6,Ligases,0.008,0.004,0.012,0.139,118.617,0.010,0.001,0.001
+Cysteine fraction,7,Translocases,0.007,0.003,0.010,-0.083,118.617,0.010,0.001,0.001
+Histidine fraction,1,Oxidoreductases,0.018,0.012,0.025,0.045,150.876,0.013,0.001,0.001
+Histidine fraction,2,Transferases,0.017,0.011,0.025,-0.047,150.876,0.013,0.001,0.001
+Histidine fraction,3,Hydrolases,0.017,0.011,0.026,-0.051,150.876,0.013,0.001,0.001
+Histidine fraction,4,Lyases,0.019,0.013,0.026,0.097,150.876,0.013,0.001,0.001
+Histidine fraction,5,Isomerases,0.016,0.012,0.023,-0.136,150.876,0.013,0.001,0.001
+Histidine fraction,6,Ligases,0.019,0.014,0.024,0.177,150.876,0.013,0.001,0.001
+Histidine fraction,7,Translocases,0.012,0.008,0.017,-0.574,150.876,0.013,0.001,0.001

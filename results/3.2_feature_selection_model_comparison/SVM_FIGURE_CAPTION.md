@@ -1,0 +1,1 @@
+图3 特征筛选与算法比较。A：七算法八项外层测试指标，柱高为五折均值，误差线为样本SD，透明度0.5；Accuracy指多标签exact match。B：七算法宏平均ROC。C：内部验证mRMR-IFS，六种表征模型参与，原始序列1D-CNN不适用；星号为平均验证AUC最大值，图例显示[特征数，AUC±SD]，不用于外层测试选参。D：最终RBF-SVM的七类ROC。ROC阴影为共同FPR网格上的TPR折间SD，图例为原始折AUC均值±SD。

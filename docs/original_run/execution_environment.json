@@ -1,0 +1,90 @@
+{
+  "python": "3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:17:27) [MSC v.1929 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "packages": {
+    "numpy": "1.26.4",
+    "pandas": "2.3.3",
+    "scipy": "1.13.1",
+    "scikit-learn": "1.7.2",
+    "matplotlib": "3.10.8",
+    "joblib": "1.5.3",
+    "threadpoolctl": "3.5.0",
+    "shap": "0.49.1",
+    "slicer": "0.0.8"
+  },
+  "shap_declared_dependencies_checked": [
+    {
+      "requirement": "numpy",
+      "installed": "1.26.4",
+      "compatible": true
+    },
+    {
+      "requirement": "scipy",
+      "installed": "1.13.1",
+      "compatible": true
+    },
+    {
+      "requirement": "scikit-learn",
+      "installed": "1.7.2",
+      "compatible": true
+    },
+    {
+      "requirement": "pandas",
+      "installed": "2.3.3",
+      "compatible": true
+    },
+    {
+      "requirement": "tqdm>=4.27.0",
+      "installed": "4.66.5",
+      "compatible": true
+    },
+    {
+      "requirement": "packaging>20.9",
+      "installed": "26.2",
+      "compatible": true
+    },
+    {
+      "requirement": "slicer==0.0.8",
+      "installed": "0.0.8",
+      "compatible": true
+    },
+    {
+      "requirement": "numba>=0.54",
+      "installed": "0.60.0",
+      "compatible": true
+    },
+    {
+      "requirement": "cloudpickle",
+      "installed": "3.0.0",
+      "compatible": true
+    },
+    {
+      "requirement": "typing-extensions",
+      "installed": "4.15.0",
+      "compatible": true
+    }
+  ],
+  "script_sha256": {
+    "14_mrmr_model_comparison.py": "8458dba9a35d7c699eac692efab665c9f4f671eca38e37c10234546ea26c49da",
+    "34_stage_svm_figure3.py": "ec8ba0c867121280f59644820d0ea5a59329919f81e03d76abc23868eec3ad4a",
+    "35_svm_five_fold_experiments.py": "d25ca83ef4636571f239b9b807a967f170b498f8a13796b204c0e128d4801aae",
+    "36_report_svm_five_fold.py": "12a77e36e34c6b0b4425e0cbf1d29b6866fbe32b7a4f37444b2dae5ce8955765",
+    "37_audit_svm_inputs.py": "037e84994ca4f0d20663f6f6476b4fd0ff41d9df6137e5ebf64a9f39a6c3a9de",
+    "38_watch_svm_reporting.py": "be5cb5219681949964455b7edc3f9020597d9313830b56a6e38269065feef63e",
+    "39_prepare_compatible_shap.py": "32aa3ff2e973b12907debf3d62a0b2098d90e9704ecb49a54bc46972ab64edd6"
+  },
+  "local_dependency_requirements_sha256": "5e766af5230c077c01962835533a60d48f0bbfaa88ada61485fe79b527c34786",
+  "recorded_at_validation": "2026-10-08 07:14:30",
+  "post_validation_plot_revision": {
+    "note": "Figure 3C: SVM line zorder=10, peak=11, linewidth=3.2; comparator lines=3, peaks=5, bands=1; bold SVM legend. All numerical values unchanged.",
+    "script_sha256": "9bc6bfa08aeb9088dfee5062341efdf64dadcdf3ec6ef6da41e5c4b77b92adc4"
+  },
+  "figure6B_revision": {
+    "note": "Figure 6B: random five-fold outer-test pairwise AUC; lower triangle only; mean ± sample SD, 3 decimals; no retraining.",
+    "script_sha256": "df90cdd4a8732978e973965dfe98cc53f4221f5b188f5ab58c64a35f1e68a942"
+  },
+  "figure6B_scale_revision": {
+    "note": "Figure 6B color scale 0.5–1; original colormap, lower triangle, all AUC/SD values and panels A/C/D unchanged.",
+    "script_sha256": "82de02a2f3b25132d8781da1ceab1c2766c92a32ad2c908af5f8ca97c8bd7282"
+  }
+}

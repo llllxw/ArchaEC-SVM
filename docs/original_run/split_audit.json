@@ -1,0 +1,1325 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "design": "random",
+      "fold": 0,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "random",
+      "fold": 0,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "random",
+      "fold": 0,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "random",
+      "fold": 1,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "random",
+      "fold": 1,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "random",
+      "fold": 1,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "random",
+      "fold": 2,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "random",
+      "fold": 2,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "random",
+      "fold": 2,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "random",
+      "fold": 3,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "random",
+      "fold": 3,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "random",
+      "fold": 3,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "random",
+      "fold": 4,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "random",
+      "fold": 4,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "random",
+      "fold": 4,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "species",
+      "fold": 0,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "species",
+      "fold": 0,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "species",
+      "fold": 0,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "species",
+      "fold": 1,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "species",
+      "fold": 1,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "species",
+      "fold": 1,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "species",
+      "fold": 2,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "species",
+      "fold": 2,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "species",
+      "fold": 2,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "species",
+      "fold": 3,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "species",
+      "fold": 3,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "species",
+      "fold": 3,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "species",
+      "fold": 4,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "species",
+      "fold": 4,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "species",
+      "fold": 4,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_10",
+      "fold": 0,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_10",
+      "fold": 0,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_10",
+      "fold": 0,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_10",
+      "fold": 1,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_10",
+      "fold": 1,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_10",
+      "fold": 1,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_10",
+      "fold": 2,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_10",
+      "fold": 2,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_10",
+      "fold": 2,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_10",
+      "fold": 3,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_10",
+      "fold": 3,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_10",
+      "fold": 3,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_10",
+      "fold": 4,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_10",
+      "fold": 4,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_10",
+      "fold": 4,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_20",
+      "fold": 0,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_20",
+      "fold": 0,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_20",
+      "fold": 0,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_20",
+      "fold": 1,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_20",
+      "fold": 1,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_20",
+      "fold": 1,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_20",
+      "fold": 2,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_20",
+      "fold": 2,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_20",
+      "fold": 2,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_20",
+      "fold": 3,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_20",
+      "fold": 3,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_20",
+      "fold": 3,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_20",
+      "fold": 4,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_20",
+      "fold": 4,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_20",
+      "fold": 4,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_30",
+      "fold": 0,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_30",
+      "fold": 0,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_30",
+      "fold": 0,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_30",
+      "fold": 1,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_30",
+      "fold": 1,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_30",
+      "fold": 1,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_30",
+      "fold": 2,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_30",
+      "fold": 2,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_30",
+      "fold": 2,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_30",
+      "fold": 3,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_30",
+      "fold": 3,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_30",
+      "fold": 3,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_30",
+      "fold": 4,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_30",
+      "fold": 4,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_30",
+      "fold": 4,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_40",
+      "fold": 0,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_40",
+      "fold": 0,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_40",
+      "fold": 0,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_40",
+      "fold": 1,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_40",
+      "fold": 1,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_40",
+      "fold": 1,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_40",
+      "fold": 2,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_40",
+      "fold": 2,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_40",
+      "fold": 2,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_40",
+      "fold": 3,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_40",
+      "fold": 3,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_40",
+      "fold": 3,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_40",
+      "fold": 4,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_40",
+      "fold": 4,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_40",
+      "fold": 4,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_50",
+      "fold": 0,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_50",
+      "fold": 0,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_50",
+      "fold": 0,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_50",
+      "fold": 1,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_50",
+      "fold": 1,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_50",
+      "fold": 1,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_50",
+      "fold": 2,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_50",
+      "fold": 2,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_50",
+      "fold": 2,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_50",
+      "fold": 3,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_50",
+      "fold": 3,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_50",
+      "fold": 3,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_50",
+      "fold": 4,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_50",
+      "fold": 4,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_50",
+      "fold": 4,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_60",
+      "fold": 0,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_60",
+      "fold": 0,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_60",
+      "fold": 0,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_60",
+      "fold": 1,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_60",
+      "fold": 1,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_60",
+      "fold": 1,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_60",
+      "fold": 2,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_60",
+      "fold": 2,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_60",
+      "fold": 2,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_60",
+      "fold": 3,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_60",
+      "fold": 3,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_60",
+      "fold": 3,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_60",
+      "fold": 4,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_60",
+      "fold": 4,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_60",
+      "fold": 4,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_70",
+      "fold": 0,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_70",
+      "fold": 0,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_70",
+      "fold": 0,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_70",
+      "fold": 1,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_70",
+      "fold": 1,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_70",
+      "fold": 1,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_70",
+      "fold": 2,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_70",
+      "fold": 2,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_70",
+      "fold": 2,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_70",
+      "fold": 3,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_70",
+      "fold": 3,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_70",
+      "fold": 3,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_70",
+      "fold": 4,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_70",
+      "fold": 4,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_70",
+      "fold": 4,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_80",
+      "fold": 0,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_80",
+      "fold": 0,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_80",
+      "fold": 0,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_80",
+      "fold": 1,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_80",
+      "fold": 1,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_80",
+      "fold": 1,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_80",
+      "fold": 2,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_80",
+      "fold": 2,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_80",
+      "fold": 2,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_80",
+      "fold": 3,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_80",
+      "fold": 3,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_80",
+      "fold": 3,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_80",
+      "fold": 4,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_80",
+      "fold": 4,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_80",
+      "fold": 4,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_90",
+      "fold": 0,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_90",
+      "fold": 0,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_90",
+      "fold": 0,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_90",
+      "fold": 1,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_90",
+      "fold": 1,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_90",
+      "fold": 1,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_90",
+      "fold": 2,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_90",
+      "fold": 2,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_90",
+      "fold": 2,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_90",
+      "fold": 3,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_90",
+      "fold": 3,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_90",
+      "fold": 3,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_90",
+      "fold": 4,
+      "role": "train",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_90",
+      "fold": 4,
+      "role": "validation",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    },
+    {
+      "design": "homology_90",
+      "fold": 4,
+      "role": "test",
+      "invalid_targets": [],
+      "group_overlap": 0,
+      "sequence_overlap": 0
+    }
+  ]
+}

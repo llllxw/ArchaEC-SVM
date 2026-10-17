@@ -1,0 +1,13 @@
+{
+  "figure": 3,
+  "status": "published after numerical validation and visual QA",
+  "source_run": "results\\svm_migration_20261008",
+  "outer_folds": 5,
+  "sd_ddof": 1,
+  "display_decimals": 3,
+  "model": "RBF-SVM in D; all seven algorithms retained in A/B; six in C",
+  "comparison_source": "results\\five_fold_cv_20261007",
+  "ifs": "inner validation only",
+  "score_type": "sigmoid margins, not calibrated probabilities",
+  "figure3C_style_revision": "Figure 3C: SVM line zorder=10, peak=11, linewidth=3.2; comparator lines=3, peaks=5, bands=1; bold SVM legend. All numerical values unchanged."
+}

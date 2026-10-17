@@ -1,0 +1,7 @@
+annotation,status,macro_roc_auc_mean,macro_roc_auc_sd,macro_roc_auc_n_folds
+Active-site annotation,Present,,,4
+Active-site annotation,Absent,0.9548543410995862,0.0028313038510523725,5
+Binding-site annotation,Present,0.9565494972297343,0.0047499887329201206,5
+Binding-site annotation,Absent,0.9524172170213052,0.0020726943518671504,5
+Transmembrane annotation,Present,,,0
+Transmembrane annotation,Absent,0.9565747918557973,0.0038480577283170636,5

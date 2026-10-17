@@ -1,0 +1,53 @@
+{
+  "retrieved_at_utc": "2026-07-19T10:10:27.497535+00:00",
+  "api_url": "https://rest.uniprot.org/uniprotkb/stream",
+  "final_url": "https://rest.uniprot.org/uniprotkb/stream?query=%28reviewed%3Atrue%29+AND+%28taxonomy_id%3A2157%29+AND+%28ec%3A%2A%29&format=tsv&fields=accession%2Cid%2Cprotein_name%2Corganism_name%2Corganism_id%2Clineage%2Clength%2Cec%2Cprotein_existence%2Cfragment%2Cdate_created%2Cdate_modified%2Csequence%2Cft_act_site%2Cft_binding%2Cft_transmem",
+  "query": "(reviewed:true) AND (taxonomy_id:2157) AND (ec:*)",
+  "fields": [
+    "accession",
+    "id",
+    "protein_name",
+    "organism_name",
+    "organism_id",
+    "lineage",
+    "length",
+    "ec",
+    "protein_existence",
+    "fragment",
+    "date_created",
+    "date_modified",
+    "sequence",
+    "ft_act_site",
+    "ft_binding",
+    "ft_transmem"
+  ],
+  "response_headers": {
+    "x-total-results": null,
+    "x-uniprot-release": "2026_02",
+    "x-uniprot-release-date": "10-June-2026",
+    "content-type": "text/plain;format=tsv"
+  },
+  "records": 11425,
+  "columns": [
+    "Entry",
+    "Entry Name",
+    "Protein names",
+    "Organism",
+    "Organism (ID)",
+    "Taxonomic lineage",
+    "Length",
+    "EC number",
+    "Protein existence",
+    "Fragment",
+    "Date of creation",
+    "Date of last modification",
+    "Sequence",
+    "Active site",
+    "Binding site",
+    "Transmembrane"
+  ],
+  "bytes": 15835339,
+  "sha256": "50b94d43d607f047a046211dc880336a177d7d584f5335edbf110fd43fd157f7",
+  "raw_file": "data/raw/uniprot_swissprot_archaea_ec_20260719.tsv",
+  "release_note": "Only the local raw_file path was made portable; source TSV is byte-identical."
+}

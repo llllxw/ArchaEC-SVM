@@ -1,0 +1,13 @@
+{
+  "figure": 5,
+  "status": "published after numerical validation and visual QA",
+  "source_run": "results\\svm_migration_20261008",
+  "outer_folds": 5,
+  "sd_ddof": 1,
+  "display_decimals": 3,
+  "model": "RBF-SVM for all seven feature groups",
+  "paired_folds": true,
+  "full_representation": "all 432 features selected in all five random folds",
+  "feature_group_selection": "predefined complete feature groups; no IFS within ablations",
+  "axis": "truncated lollipop axes; compare numerical values, not stem-length ratios"
+}

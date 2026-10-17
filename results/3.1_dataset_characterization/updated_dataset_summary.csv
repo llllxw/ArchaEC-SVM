@@ -1,0 +1,8 @@
+ec_class,class_name,n_accessions,n_unique_sequences,n_species,n_phyla,median_length,mean_length,min_length,max_length
+1,Oxidoreductases,1215,1172,117,5,341.000,356.154,15,1740
+2,Transferases,4030,3783,155,5,279.000,306.766,15,2289
+3,Hydrolases,2301,2186,123,7,249.000,300.706,32,2289
+4,Lyases,1330,1255,86,5,292.000,305.286,91,625
+5,Isomerases,734,707,92,5,392.000,414.505,67,1711
+6,Ligases,1807,1740,94,5,472.000,504.458,80,1104
+7,Translocases,271,266,72,5,299.000,370.716,12,1017

@@ -1,0 +1,8 @@
+ec_class,label_column,class_name,positive_accessions
+1,label_ec1,Oxidoreductases,1215
+2,label_ec2,Transferases,4030
+3,label_ec3,Hydrolases,2301
+4,label_ec4,Lyases,1330
+5,label_ec5,Isomerases,734
+6,label_ec6,Ligases,1807
+7,label_ec7,Translocases,271

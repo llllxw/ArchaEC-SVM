@@ -1,0 +1,22 @@
+﻿ec_class,class_name,feature_group,mean_absolute_shap,group_share
+1,Oxidoreductases,AAC,0.016 ± 0.002,0.019 ± 0.003
+1,Oxidoreductases,DPC,0.811 ± 0.053,0.960 ± 0.008
+1,Oxidoreductases,Physicochemical,0.018 ± 0.004,0.022 ± 0.006
+2,Transferases,AAC,0.019 ± 0.004,0.023 ± 0.004
+2,Transferases,DPC,0.773 ± 0.030,0.945 ± 0.018
+2,Transferases,Physicochemical,0.027 ± 0.013,0.033 ± 0.015
+3,Hydrolases,AAC,0.014 ± 0.004,0.015 ± 0.005
+3,Hydrolases,DPC,0.836 ± 0.104,0.943 ± 0.018
+3,Hydrolases,Physicochemical,0.037 ± 0.013,0.041 ± 0.015
+4,Lyases,AAC,0.008 ± 0.002,0.012 ± 0.003
+4,Lyases,DPC,0.668 ± 0.074,0.950 ± 0.011
+4,Lyases,Physicochemical,0.027 ± 0.009,0.038 ± 0.010
+5,Isomerases,AAC,0.018 ± 0.004,0.019 ± 0.005
+5,Isomerases,DPC,0.872 ± 0.075,0.931 ± 0.020
+5,Isomerases,Physicochemical,0.046 ± 0.013,0.050 ± 0.016
+6,Ligases,AAC,0.025 ± 0.005,0.025 ± 0.005
+6,Ligases,DPC,0.944 ± 0.067,0.928 ± 0.016
+6,Ligases,Physicochemical,0.047 ± 0.014,0.047 ± 0.015
+7,Translocases,AAC,0.021 ± 0.006,0.029 ± 0.008
+7,Translocases,DPC,0.664 ± 0.052,0.932 ± 0.022
+7,Translocases,Physicochemical,0.028 ± 0.013,0.039 ± 0.018

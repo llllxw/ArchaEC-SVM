@@ -1,0 +1,2 @@
+﻿model,roc_auc,ap,validation_threshold
+multifunction RBF-SVM,0.945 ± 0.025,0.792 ± 0.034,0.394 ± 0.011

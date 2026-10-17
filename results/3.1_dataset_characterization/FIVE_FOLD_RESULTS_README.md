@@ -1,0 +1,1 @@
+当前正式结果：results/svm_migration_20261008。最终模型RBF-SVM；图3保留七算法比较。外层五折、内部验证选特征，均值±样本SD(ddof=1)，三位小数；描述性面板不添加SD。SVM输出为未校准评分；图6C为抽样KernelSHAP，不是TreeSHAP。重绘使用scripts/36_report_svm_five_fold.py，训练使用scripts/35_svm_five_fold_experiments.py。旧LightGBM证据保留于results/five_fold_cv_20261007和results/_archive_pre_svm_20261008；未更新旧顶层文件归入legacy_lightgbm_cv，仅作历史追溯。详见新运行experiment_result.md。

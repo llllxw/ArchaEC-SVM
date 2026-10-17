@@ -1,0 +1,16 @@
+{
+  "status": "published after numerical validation and visual QA",
+  "final_model": "RBF-SVM",
+  "source_run": "results/five_fold_cv_20261007",
+  "new_training": false,
+  "outer_folds": 5,
+  "SD": "sample standard deviation, ddof=1",
+  "template": "手稿\\结果图\\图3.png",
+  "template_sha256": "ce28f8dd5431a452a3f0c825c8c7ef25bd7e87c88bd94cef70b474780eb0f10b",
+  "panels_ABC": "all seven original algorithms retained as comparator evidence; six IFS feature algorithms",
+  "panel_D": "existing five-fold RBF-SVM predictions; no LightGBM predictions",
+  "score_type": "sigmoid decision-function scores, not calibrated probabilities",
+  "accuracy": "multilabel exact-match accuracy",
+  "layout": "template left column 1.5 times right column, A/B top and C/D bottom",
+  "figure3C_style_revision": "Figure 3C: SVM line zorder=10, peak=11, linewidth=3.2; comparator lines=3, peaks=5, bands=1; bold SVM legend. All numerical values unchanged."
+}

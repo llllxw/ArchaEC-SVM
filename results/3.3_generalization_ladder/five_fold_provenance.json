@@ -1,0 +1,15 @@
+{
+  "figure": 4,
+  "status": "published after numerical validation and visual QA",
+  "source_run": "results\\svm_migration_20261008",
+  "outer_folds": 5,
+  "sd_ddof": 1,
+  "display_decimals": 3,
+  "model": "RBF-SVM; per-fold inner-training mRMR and validation IFS",
+  "layout": "template: A/C/E left, B/D right",
+  "heatmap_scale": [
+    0,
+    1
+  ],
+  "identity_10_20": "identical input cluster mappings, not independent difficulties"
+}

@@ -1,0 +1,26 @@
+{
+  "figure": 6,
+  "status": "published after numerical validation and visual QA",
+  "source_run": "results\\svm_migration_20261008",
+  "outer_folds": 5,
+  "sd_ddof": 1,
+  "display_decimals": 3,
+  "model": "RBF-SVM",
+  "explanation": "KernelSHAP on raw decision margins, not TreeSHAP",
+  "sampling": "per fold 14 training backgrounds and 42 complete single-label outer tests (6 per class)",
+  "approximation": "1024 coalition samples; l1_reg=num_features(20); exploratory, no convergence claim",
+  "pairwise_population": "complete single-label random five-fold outer tests",
+  "pairwise_score": "logit score difference",
+  "descriptive_panels": [
+    "6A",
+    "6D"
+  ],
+  "diagonal": "not applicable; masked, not zero or one",
+  "pairwise_display": "lower triangle only; upper triangle and diagonal masked",
+  "pairwise_revision": "Figure 6B: random five-fold outer-test pairwise AUC; lower triangle only; mean ± sample SD, 3 decimals; no retraining.",
+  "pairwise_previous_version": "results\\svm_migration_20261008\\style_revisions\\figure6b_random_lower_20261008\\before",
+  "pairwise_color_scale": [
+    0.5,
+    1
+  ]
+}

@@ -1,0 +1,38 @@
+﻿model,n_features,validation_macro_auc
+Logistic Regression,16,0.687 ± 0.011
+Logistic Regression,32,0.726 ± 0.009
+Logistic Regression,64,0.762 ± 0.005
+Logistic Regression,128,0.790 ± 0.008
+Logistic Regression,256,0.823 ± 0.008
+Logistic Regression,432,0.856 ± 0.007
+RBF-SVM,16,0.750 ± 0.007
+RBF-SVM,32,0.821 ± 0.008
+RBF-SVM,64,0.885 ± 0.004
+RBF-SVM,128,0.926 ± 0.008
+RBF-SVM,256,0.950 ± 0.008
+RBF-SVM,432,0.957 ± 0.005
+Random Forest,16,0.853 ± 0.006
+Random Forest,32,0.898 ± 0.006
+Random Forest,64,0.927 ± 0.005
+Random Forest,128,0.937 ± 0.006
+Random Forest,256,0.939 ± 0.006
+Random Forest,432,0.940 ± 0.004
+XGBoost,16,0.837 ± 0.003
+XGBoost,32,0.884 ± 0.005
+XGBoost,64,0.916 ± 0.009
+XGBoost,128,0.936 ± 0.009
+XGBoost,256,0.947 ± 0.007
+XGBoost,432,0.955 ± 0.005
+LightGBM,16,0.843 ± 0.007
+LightGBM,32,0.892 ± 0.003
+LightGBM,64,0.924 ± 0.008
+LightGBM,128,0.943 ± 0.007
+LightGBM,256,0.950 ± 0.007
+LightGBM,432,0.956 ± 0.005
+DNN,16,0.777 ± 0.008
+DNN,32,0.838 ± 0.007
+DNN,64,0.889 ± 0.004
+DNN,128,0.913 ± 0.011
+DNN,256,0.936 ± 0.009
+DNN,432,0.949 ± 0.007
+1D-CNN,0,0.867 ± 0.010

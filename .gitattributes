@@ -1,0 +1,13 @@
+* text=auto
+*.csv -text
+*.tsv -text
+*.npy binary
+*.png binary
+*.pdf binary
+archive/scripts/* -text
+data/raw/* -text
+data/processed/* -text
+data/splits/* -text
+data/features.accessions.txt -text
+results/** -text
+docs/original_run/** -text
